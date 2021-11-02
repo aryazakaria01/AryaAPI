@@ -33,9 +33,9 @@ const options = {
 	optimizeQuery: true
 };
 
-getLyrics(options).then((lyrics) => console.log(lyrics));
+GetLyrics(options).then((lyrics) => console.log(lyrics));
 
-getSong(options).then((song) =>
+GetSong(options).then((song) =>
 	console.log(`
 	${song.id}
 	${song.title}
