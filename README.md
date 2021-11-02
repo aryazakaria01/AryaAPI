@@ -22,7 +22,7 @@ yarn add AryaAPI
 <br>
 
 ```js
-import { getLyrics, getSong } from 'AryaAPI';
+import { GetLyrics, GetSong } from 'AryaAPI';
 ```
 
 ```js
