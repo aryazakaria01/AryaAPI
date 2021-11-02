@@ -117,4 +117,4 @@ Returns a promise that resolves to an object of type [song](#types).
 
 ## Support
 
-If you this repo is make you happy then support me by joining @CyberSupportgROUP
+If you this repo is make you happy then support me by joining @CyberSupportGroup
